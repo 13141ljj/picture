@@ -1,0 +1,34 @@
+Surfbird: 一个基于 Electron 和 Vue 的 Twitter 客户端 https://github.com/pixeldesu/surfbird.git
+Lulumi-browser: Lulumi-browser 是一个轻量级的浏览器，基于 Vue.js 2 和 Electron  https://github.com/LulumiProject/lulumi-browser.git
+Space-Snake: 使用 Electron 和 Vue.js 构建的桌面游戏。  https://github.com/ilyagru/Space-Snake.git
+Forrest: 一个 npm 脚本的桌面客户端
+miikun: 一个简单的 Markdown 编辑器 https://github.com/hiro0218/miikun.git
+Dakika: 超省时的应用程序，使写作变得轻而易举
+Dynamoc: Dynamoc 是一个 dynamodb-local、 dynalite 和 AWS dynamodb 的图形化界面客户端 https://github.com/ieiayaobb/dynamoc.git
+Dockeron: Dockeron 项目, 基于 Electron + Vue.js 的 Docker 桌面客户端
+Easysubs: 快速简单地下载字幕  https://github.com/matiastucci/easysubs.git
+Data-curator：分享可用的開放數據。
+
+
+console.log([
+    "                   _ooOoo_",
+    "                  o8888888o",
+    "                  88\" . \"88",
+    "                  (| -_- |)",
+    "                  O\\  =  /O",
+    "               ____/`---'\\____",
+    "             .'  \\\\|     |//  `.",
+    "            /  \\\\|||  :  |||//  \\",
+    "           /  _||||| -:- |||||-  \\",
+    "           |   | \\\\\\  -  /// |   |",
+    "           | \\_|  ''\\---/''  |   |",
+    "           \\  .-\\__  `-`  ___/-. /",
+    "         ___`. .'  /--.--\\  `. . __",
+    "      .\"\" '<  `.___\\_<|>_/___.'  >'\"\".",
+    "     | | :  `- \\`.;`\\ _ /`;.`/ - ` : | |",
+    "     \\  \\ `-.   \\_ __\\ /__ _/   .-` /  /",
+    "======`-.____`-.___\\_____/___.-`____.-'======",
+    "                   `=---='",
+    "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+    "         佛祖保佑       永无BUG"
+].join('\n'));
